@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ojjo-project/static/css/main.107d0ccd.css",
+    "main.css": "/Ojjo-project/static/css/main.12c3a367.css",
     "main.js": "/Ojjo-project/static/js/main.36d1b3be.js",
     "static/media/main-bg.png": "/Ojjo-project/static/media/main-bg.a558c1c6bb8b1e999ef6.png",
     "static/media/NotoSerif-Bold.ttf": "/Ojjo-project/static/media/NotoSerif-Bold.0aacbc832fb391fc6a04.ttf",
@@ -43,11 +43,11 @@
     "static/media/facebook.svg": "/Ojjo-project/static/media/facebook.4e8ba58dc701cdc7805ca1c456ec24ef.svg",
     "static/media/facebook-white.svg": "/Ojjo-project/static/media/facebook-white.0491a3015b58878a1be9e7ea7a5c6792.svg",
     "static/media/list-icon.svg": "/Ojjo-project/static/media/list-icon.380cb489dcc325f73378.svg",
-    "main.107d0ccd.css.map": "/Ojjo-project/static/css/main.107d0ccd.css.map",
+    "main.12c3a367.css.map": "/Ojjo-project/static/css/main.12c3a367.css.map",
     "main.36d1b3be.js.map": "/Ojjo-project/static/js/main.36d1b3be.js.map"
   },
   "entrypoints": [
-    "static/css/main.107d0ccd.css",
+    "static/css/main.12c3a367.css",
     "static/js/main.36d1b3be.js"
   ]
 }
